@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @ElliesWorld
-- 👀 I'm curious and interested in culture, languages and more
-- 🌱 I'm currently learning these programming languages: C, C++ and Python
+- 👀 I'm curious and interested in cultures, I play VR Games and have many more hobbies
+- 🌱 I'm currently learning these programming languages: RAPID, C, C++ and Python
 - ✨ I'm a globetrotter from Sweden
 
 <!---
