@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @ElliesWorld
-- 👀 I'm curious and interested in cultures, I play VR Games and have several hobbies
+- 👀 I'm curious and interested in cultures, I play VR Games and have several other hobbies
 - 🌱 I'm currently learning these programming languages: C, C++, Python & RAPID
 - ✨ I'm a globetrotter from Sweden
 
